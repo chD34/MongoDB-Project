@@ -1,16 +1,20 @@
-Реалізація інтеграції даних результатів ЗНО у базу даних MongoDB та виконання SQL-операції
+# Implementation of the integration results of the external examination(ZNO) into the MongoDB database and execution of the SQL operation
 
-#Інструкція
+# Instruction
 
-Додати дані зно 2019 та 2021 в папку app
+1. Add ZN0 data of 2019 and 2021 in the app folder.
 
-Задати команду в термінал:
+Data source: https://zno.testportal.com.ua/stat
+
+2. Run command in the terminal:
 ```bach
 docker-compose create
 ```
-Запустити контейнер з базою, потім з app і готово.
+3. Run container with database and after - with app.
 
-або просто:
+or easier:
+
+3. Run command in the terminal:
 ```bach
 docker-compose up
 ```
