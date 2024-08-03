@@ -1,6 +1,5 @@
 # Implementation of the integration results of the external examination(ZNO) into the MongoDB database and execution of the SQL operation
-Technologies: Docker, Python, Flask, Flyway, HTML/CSS, MongoDb, SQLAlchemy
-
+Technologies: Docker, Python, PyMongo, MongoDb
 # Instruction
 
 1. Add ZN0 data of 2019 and 2021 in the app folder.
