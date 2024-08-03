@@ -1,4 +1,5 @@
 # Implementation of the integration results of the external examination(ZNO) into the MongoDB database and execution of the SQL operation
+Technologies: Docker, Python, Flask, Flyway, HTML/CSS, MongoDb, SQLAlchemy
 
 # Instruction
 
